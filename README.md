@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Afrizki Agi Datulmizan**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).<br>
  
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
  
